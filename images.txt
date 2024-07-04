@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nriver/trilium-cn:latest
+nriver/trilium-cn:v0.63.7
