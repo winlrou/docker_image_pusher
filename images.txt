@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nriver/trilium-cn
 xiaoyaliu/alist
+
