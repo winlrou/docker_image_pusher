@@ -7,3 +7,4 @@ nriver/trilium-cn
 xiaoyaliu/alist
 luodaoyi/kms-server
 gdy666/lucky
+gitlab/gitlab-ce
