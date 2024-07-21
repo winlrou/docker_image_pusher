@@ -11,4 +11,3 @@ gitlab/gitlab-ce
 nginx
 xiaoyaliu/glue
 amilys/embyserver
-xhofe/alit
