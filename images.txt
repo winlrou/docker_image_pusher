@@ -4,10 +4,11 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 nriver/trilium-cn
-xiaoyaliu/alist:hosymode
+xiaoyaliu/alist:hostmode
 luodaoyi/kms-server
 gdy666/lucky
 gitlab/gitlab-ce
 nginx
 xiaoyaliu/glue
 amilys/embyserver
+xhofe/alit
