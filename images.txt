@@ -4,7 +4,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 nriver/trilium-cn
-xiaoyaliu/alist
+xiaoyaliu/alist:hosymode
 luodaoyi/kms-server
 gdy666/lucky
 gitlab/gitlab-ce
