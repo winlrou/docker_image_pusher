@@ -10,4 +10,6 @@ gdy666/lucky
 gitlab/gitlab-ce
 nginx
 xiaoyaliu/glue
-amilys/embyserver
+amilys/embyserver:latest
+amilys/embyserver:4.8.0.56
+
