@@ -4,6 +4,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 nriver/trilium-cn
+xiaoyaliu/alist:latest
 xiaoyaliu/alist:hostmode
 luodaoyi/kms-server
 gdy666/lucky
