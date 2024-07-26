@@ -14,3 +14,4 @@ xiaoyaliu/glue
 amilys/embyserver:latest
 amilys/embyserver:4.8.0.56
 xhofe/alist
+ddsedrek/xiaoyakeeper
