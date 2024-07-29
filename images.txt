@@ -15,3 +15,5 @@ amilys/embyserver:latest
 amilys/embyserver:4.8.0.56
 xhofe/alist
 ddsderek/xiaoyakeeper
+p3terx/aria2-pro
+p3terx/ariang
